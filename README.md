@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @phumzani1011
 - 👀 I’m interested in all things web and mobile made with javascript 
 - 🌱 I’m currently learning react/threejs/typescript/node...
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me phumzani101@gmail.com
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: Keep striving for progress, over perfection, little progress everyday goes a very long way
